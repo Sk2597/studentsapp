@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/studentsapp/static/css/main.d1c7a93f.chunk.css",
+    "main.js": "/studentsapp/static/js/main.a7d900a2.chunk.js",
+    "main.js.map": "/studentsapp/static/js/main.a7d900a2.chunk.js.map",
+    "runtime-main.js": "/studentsapp/static/js/runtime-main.6744d1d4.js",
+    "runtime-main.js.map": "/studentsapp/static/js/runtime-main.6744d1d4.js.map",
+    "static/css/2.31461e4f.chunk.css": "/studentsapp/static/css/2.31461e4f.chunk.css",
+    "static/js/2.9065340a.chunk.js": "/studentsapp/static/js/2.9065340a.chunk.js",
+    "static/js/2.9065340a.chunk.js.map": "/studentsapp/static/js/2.9065340a.chunk.js.map",
+    "static/js/3.6ca1faac.chunk.js": "/studentsapp/static/js/3.6ca1faac.chunk.js",
+    "static/js/3.6ca1faac.chunk.js.map": "/studentsapp/static/js/3.6ca1faac.chunk.js.map",
+    "index.html": "/studentsapp/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/studentsapp/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.d1c7a93f.chunk.css.map": "/studentsapp/static/css/main.d1c7a93f.chunk.css.map",
+    "static/js/2.9065340a.chunk.js.LICENSE.txt": "/studentsapp/static/js/2.9065340a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6744d1d4.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.9065340a.chunk.js",
+    "static/css/main.d1c7a93f.chunk.css",
+    "static/js/main.a7d900a2.chunk.js"
+  ]
+}
